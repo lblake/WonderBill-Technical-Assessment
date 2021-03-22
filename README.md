@@ -16,7 +16,10 @@ After installing node you will need to do the following:
 
 A: 'npx cypress open' command will open the 'Cypress test runner' select “NewWonderBillUserTest.spec.js” this will open a new Chrome browser and start running the tests
 
-B: 'npx cypress run' this will run the test in ‘headless’ mode (no browser).  If you want to view the test run(s) you can do so via mp4 recordings which are located in 'cypress/videos/testcases' folder 
+B: 'npx cypress run' this will run the test in ‘headless’ mode (no browser).  If you want to view the test run(s) you can do so via mp4 recordings which are located in 'cypress/videos/testcases' folder. 
+
+C: You also run the tests via Gitlab CI/CD pipeline (which doesn't require any files to be installed) via: https://gitlab.com/treleven.lloyd/wonderbill/-/pipelines. 
+Select 'Run Pipeline' button and then 'Run Pipeline' button again, then select the 'Test' option to view the test run. PLEASE NOTE: you will need to log into Gitlab to be able to run the CI/CD pipeline. 
 
 PLEASE NOTE: I used faker.js package (https://www.npmjs.com/package/faker) to generate fake users, email addresses and passwords. Which allows the test to be run multiple times without user registration issues.
 
