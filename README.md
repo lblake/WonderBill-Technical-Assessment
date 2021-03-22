@@ -35,7 +35,7 @@ PLEASE NOTE:  That the test failed (point C).  However, I tested that the test g
 D: Written in JavaScript/TypeScript. COMPLETED 
 
 
-When running the failed test (Point C) I took some screen shots of the failure to provide further evidence and information on the failure.  These screens are as follows: 
+When running the failed test (Point C) I took some screen shots of the failure to provide further evidence and information on the failure.  These screen shots are as follows: 
 
 # Bad Request Error
 ![](cypress/screenshots/wonderbill-bad-request-error.png)
