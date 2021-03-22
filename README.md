@@ -1,6 +1,8 @@
 # WonderBill-Technical-Assessment
 
-To run the test yourself you will need the following Prerequisite:
+I used Cypress (https://www.cypress.io/) automated testing framework to complete the assessment
+
+To run the tests you will need the following Prerequisite:
 
 install Node if not already installed on your computer
 
@@ -31,4 +33,9 @@ C: One test that fails (on purpose!) and will provide useful data for debug (thi
 PLEASE NOTE:  That the test failed (point C).  However, I tested that the test generated the expected error message which allowed the overall test run to pass.  
 
 D: Written in JavaScript/TypeScript. COMPLETED 
+
+
+When running the failed test (Point C) I took some screen shots of the failure to provide further evidence and information on the failure.  These screens are as follows: 
+
+
 
