@@ -1,0 +1,10 @@
+{
+  "newaccountpage": {
+    "newAccountBtn": "a[title='Create your account'] > button",
+    "name": "input[name='userNameField']",
+    "email": "input[name='emailField']",
+    "password": "input[name='passwordField']",
+    "terms": "#termsCheckbox",
+    "signUpBtn": ".LsTdH > button"
+  }
+}

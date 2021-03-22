@@ -1,0 +1,16 @@
+{
+  "name": "wonderbill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lloyd Blake",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.8.0",
+    "faker": "^5.4.0"
+  }
+}
